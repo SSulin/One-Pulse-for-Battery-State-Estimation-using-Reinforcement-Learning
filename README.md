@@ -47,8 +47,7 @@ Unlike conventional constant-current constant-voltage (CCCV) protocols, a **puls
 ---
 
 ### 3. Code
-- `Pulse_Sufficiency_Figure 1-3.py` → Code for Figures 1–3 
-- `Pulse_Sufficiency_Figure 4-6.py` → Code for Figures 4–6  
+- `Pulse_Sufficiency_Figure2-6.py` → Code for Figures 2–6 
 
 ---
 

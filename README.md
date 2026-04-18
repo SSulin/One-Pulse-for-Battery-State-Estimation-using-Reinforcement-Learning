@@ -56,7 +56,7 @@ Unlike conventional constant-current constant-voltage (CCCV) protocols, a **puls
 - scikit_learn==1.0.2
 - seaborn==0.11.2
 - xgboost==3.2.0
-The requirements.txt records environments in the code for reference.
+- The requirements.txt records environments in the code for reference.
 ---
 
 ### 5. Access

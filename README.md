@@ -50,11 +50,19 @@ Unlike conventional constant-current constant-voltage (CCCV) protocols, a **puls
 - `Pulse_Sufficiency_Figure2-6.py` → Code for Figures 2–6 
 
 ---
+### 4. Main package versions in the model environment:
+- pandas==1.4.4
+- plotly==5.9.0
+- scikit_learn==1.0.2
+- seaborn==0.11.2
+- xgboost==3.2.0
+The requirements.txt records environments in the code for reference.
+---
 
-### 4. Access
+### 5. Access
 Correspondence to [Terence (Shengyu) Tao](mailto:shengyu.tao@chalmers.se) or [Lin Su](sul24@mails.tsinghua.edu.cn) and CC Prof. [Xuan Zhang](xuanzhang@sz.tsinghua.edu.cn)  when you use, or have any inquiries.
 
 ---
 
-### 5. Acknowledgements
+### 6. Acknowledgements
 [Terence (Shengyu) Tao](mailto:shengyu.tao@chalmers.se) and [Lin Su](sul24@mails.tsinghua.edu.cn) at Tsinghua Shenzhen Institute prepared the data, designed the model and algorithms, developed and tested the experiments, uploaded the model and experimental code, revised the testing experiment plan, and wrote this instruction document based on supplementary materials.
